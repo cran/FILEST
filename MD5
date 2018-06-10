@@ -1,0 +1,15 @@
+590c64e7a1c91af87c40632366c6bd38 *DESCRIPTION
+06ca5780b7155f400ce5f9c5c08cca48 *NAMESPACE
+80481af62b246ea23ef87f49ae27b4a9 *NEWS.md
+8ab5666d1f4838a6f52f2678774b565a *R/FILEST_package.R
+43b31b9f9e9c6b7bfd7d91a74c995932 *R/filest.R
+9470190980e892894c6558ace5ffd3ca *README.md
+e1af73a368067de116fa62b0c5ccf2cc *inst/CITATION
+0b88b768d980d460e3179ab2d9f0bea5 *man/FILEST-package.Rd
+f4b7ab25dc542285592aaa3b5a40a81d *man/cbind_bigmatrix.Rd
+464d3a06ced709022bd476ead0dd1a12 *man/demo.filest.Rd
+48d0406618e1ebb3d671324ff469fd44 *man/filest.Rd
+a47e223c3ca9511927b4912de9bb0573 *man/rbind_bigmatrix.Rd
+5402550055a02559e04f55d5d8068eb6 *tests/testthat.R
+0e378eea0e897765632b9bf63764696e *tests/testthat/test_filest.R
+54851d5dbe0dbc0805a1e28757ccd56a *tests/testthat/test_internal_functions.R
