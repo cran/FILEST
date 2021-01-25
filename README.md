@@ -1,17 +1,3 @@
----
-title: "README"
-author: "Kridsadakorn Chaichoompu"
-date: "07/06/2018"
-output:
-  html_document:
-    keep_md: yes
-    toc: yes
-  pdf_document: 
-    number_sections: yes
-    toc: yes
----
-
-
 
 # R Package FILEST
 
@@ -30,6 +16,7 @@ The R package ```FILEST``` requires ```KRIS``` and ```rARPACK```
 Here is the list of functions in the R package ```FILEST```:
 
 * ```cbind_bigmatrix```
+* ```create.template.setting```
 * ```demo.filest```
 * ```filest```
 * ```rbind_bigmatrix```

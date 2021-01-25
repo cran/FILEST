@@ -1,16 +1,22 @@
----
-title: "NEWS"
-author: "Kridsadakorn Chaichoompu"
-date: "07/06/2018"
-output:
-  html_document:
-    keep_md: yes
-    toc: yes
-  pdf_document: 
-    number_sections: yes
-    toc: yes
----
 
+# FILEST 1.1.2
+
+* Update the package according to R v4
+
+# FILEST 1.1.1
+
+* Added the complete libraries in FILEST_package.R
+
+# FILEST 1.1.0
+
+* Added function create.setting.file
+
+
+# FILEST 1.0.3
+
+## Updates
+
+* Dropped off all RD files for internal functions
 
 
 # FILEST 1.0.2
